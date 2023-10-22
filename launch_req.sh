@@ -1,0 +1,1 @@
+RUST_BACKTRACE=1 cargo run -p spdm-requester-emu --no-default-features --features "spdm-ring,hashed-transcript-data"
